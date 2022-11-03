@@ -2,6 +2,7 @@
 Solución de examen realizado en DAM
 Examen Programación en java en DAM (desarrollo de aplicaciones 
 Multiplataforma)
+
 La farmacia VIRGEN DE LA PAZ desea vender lotes de mascarillas entre sus clientes. Dispone de 
 varios tipos de mascarilla y desea registrar en una aplicación ciertas características de cada una 
 de ellas.
